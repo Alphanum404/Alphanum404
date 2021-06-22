@@ -38,7 +38,7 @@ Hello, my name Aiden Pearce and I'm one of the agency in the Company [ctOS](http
 ![Heroku](https://img.shields.io/badge/-Heroku-black?logo=Heroku&style=social)&nbsp;&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
 
-![Rashmi's Github Stats](https://github-readme-stats.vercel.app/api?username=Alphanum404&count_private=true&show_icons=true&include_all_commits=true)
+![Alphanum404's Github Stats](https://github-readme-stats.vercel.app/api?username=Alphanum404&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alphanum404&hide=TeX&layout=compact)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Alphanum404.Alphanum404)
