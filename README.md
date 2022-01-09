@@ -1,4 +1,4 @@
-### Hi there 👋, I am [Alphanum404](https://wa.me/6285155412385/)! 😁
+### Hi there 👋, I am [Alphanum404](https://wa.me/6281387980448/)! 😁
 <!--
 **Alphanum404j/Alphanum404-** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
@@ -19,7 +19,7 @@ Hello, my name Aiden Pearce and I'm one of the agency in the Company [ctOS](http
 
 - 🔭 I’m currently learning [Javascript](https://www.javascript.com/) and [Python](https://www.python.org/)
 - 💬 Brainstorm with me over tech, algorithms, career, gaming, and music 
-- 📫 How to reach me: [Telegram](https://t.me/aldiflynns) or [WhatsApp](https://wa.me/6285155412385)
+- 📫 How to reach me: [Telegram](https://t.me/aldiflynns) or [WhatsApp](https://wa.me/6281387980448)
 - 😄 Pronouns: Den/Di/Tos/Oyy
 - ⚡ Fun fact: Checkout my [Website](https://kambing.me) Community if you are ambitious!
 - 📝 [Resume](https://s3.ap-southeast-1.amazonaws.com/magazine.job-like.com/magazine/wp-content/uploads/2018/11/07215146/211.jpg)
